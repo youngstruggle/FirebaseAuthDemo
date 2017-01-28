@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624587897268",
+    "firebase_url": "https://myfirebaseauth-31715.firebaseio.com",
+    "project_id": "myfirebaseauth-31715",
+    "storage_bucket": "myfirebaseauth-31715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624587897268:android:a4aab40f455e3960",
+        "android_client_info": {
+          "package_name": "com.onfocus.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624587897268-cucb5qeniqvoj1qoktuel8vqt2l8f155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBil5-BV8of8KkfTeOowB61PleMhu4WIAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
